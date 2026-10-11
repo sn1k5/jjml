@@ -1,2 +1,2 @@
-# jjml
-仿ggml简单复现
+# machine learning graph-backward
+反向图实现
